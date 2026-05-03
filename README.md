@@ -1,4 +1,4 @@
-# Strealy-Support
+# Streakly-Support
 Support for Streakly App
 
 
